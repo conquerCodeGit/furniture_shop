@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "url": "#",
+      "title": "Lorem alpha",
+      "text": "It is a long estiabs lished fact that a reader will be the service.",
+      "image": "img1.jpg",
+      "price": "100"
+    },
+    {
+      "url": "#",
+      "title": "Lorem beta",
+      "text": "It is a long estiabs lished fact that a reader will be the service.",
+      "image": "img2.jpg",
+      "price": "300"
+    },
+    {
+      "url": "#",
+      "title": "Lorem gama",
+      "text": "It is a long estiabs lished fact that a reader will be the service.",
+      "image": "img3.jpg",
+      "price": "260"
+    },
+    {
+      "url": "#",
+      "title": "Lorem delta",
+      "text": "It is a long estiabs lished fact that a reader will be the service.",
+      "image": "img4.jpg",
+      "price": "90"
+    },
+    {
+      "url": "#",
+      "title": "Lorem lorem",
+      "text": "It is a long estiabs lished fact that a reader will be the service.",
+      "image": "img5.jpg",
+      "price": "780"
+    }
+  ]
+}
